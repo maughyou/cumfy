@@ -2,7 +2,7 @@
 
 <img src="assets/Comfy_Logo_x512.png" alt="Comfy Desktop" width="128" />
 
-# Comfy Desktop
+# Cumfy up-top & up-skhert
 
 **Install, run, and manage [ComfyUI](https://github.com/Comfy-Org/ComfyUI) from one app — no dependency hell.**
 
