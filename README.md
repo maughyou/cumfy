@@ -2,7 +2,7 @@
 
 <img src="assets/Comfy_Logo_x512.png" alt="Comfy Desktop" width="128" />
 
-# Cumfy up-top & up-skhert
+# Cum fly up-top & up-skhert, & up up & and MMMk
 
 **Install, run, and manage [ComfyUI](https://github.com/Comfy-Org/ComfyUI) from one app — no dependency hell.**
 
